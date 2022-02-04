@@ -31,6 +31,7 @@ namespace Hello
             Console.WriteLine(karakter);
             Console.WriteLine(szöveg);
             Console.ReadKey();
+            
         }
     }
 }
