@@ -13,8 +13,9 @@ namespace szam
         {
             int alsohatar = 1;
             int  felsohatar = 100;
-                 probal = 5;
-                gondoltszam;
+                int probal = 5;
+                int gondoltSzam;
+                int tipp;
                    
               Random rnd = new Random();
 
@@ -23,7 +24,8 @@ namespace szam
                 Console.WriteLine("Leszel az aki gondol a számra? (i/n)");
                 if (Console.ReadKey().KeyChar == 'i') ;
                 {
-                    gondoltszam = rnd.Next(felsőhatar, alsohatar);
+                    gondoltSzam = rnd.Next(felsohatar, alsohatar);
+                    for (int i = 0; i =< probal) ;
                 }
                 
                 Console.WriteLine("Folytatjuk a játékot? (i/n)");
