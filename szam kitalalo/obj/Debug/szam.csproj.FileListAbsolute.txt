@@ -1,0 +1,2 @@
+C:\Users\2021307\Source\Repos\Zsolti0217\F-l-ves-anyag\szam\obj\Debug\szam.csproj.AssemblyReference.cache
+C:\Users\2021307\Source\Repos\Zsolti0217\F-l-ves-anyag\szam\obj\Debug\szam.csproj.CoreCompileInputs.cache
