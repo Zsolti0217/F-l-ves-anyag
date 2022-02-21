@@ -1,0 +1,2 @@
+C:\Users\2021307\source\repos\atlaghomerseklet\obj\Debug\atlaghomerseklet.csproj.AssemblyReference.cache
+C:\Users\2021307\source\repos\atlaghomerseklet\obj\Debug\atlaghomerseklet.csproj.CoreCompileInputs.cache
