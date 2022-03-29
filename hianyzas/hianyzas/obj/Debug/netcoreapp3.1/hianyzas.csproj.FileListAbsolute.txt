@@ -1,0 +1,5 @@
+C:\Users\2021307\Source\Repos\Zsolti0217\F-l-ves-anyag\hianyzas\hianyzas\obj\Debug\netcoreapp3.1\hianyzas.csproj.AssemblyReference.cache
+C:\Users\2021307\Source\Repos\Zsolti0217\F-l-ves-anyag\hianyzas\hianyzas\obj\Debug\netcoreapp3.1\hianyzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2021307\Source\Repos\Zsolti0217\F-l-ves-anyag\hianyzas\hianyzas\obj\Debug\netcoreapp3.1\hianyzas.AssemblyInfoInputs.cache
+C:\Users\2021307\Source\Repos\Zsolti0217\F-l-ves-anyag\hianyzas\hianyzas\obj\Debug\netcoreapp3.1\hianyzas.AssemblyInfo.cs
+C:\Users\2021307\Source\Repos\Zsolti0217\F-l-ves-anyag\hianyzas\hianyzas\obj\Debug\netcoreapp3.1\hianyzas.csproj.CoreCompileInputs.cache
