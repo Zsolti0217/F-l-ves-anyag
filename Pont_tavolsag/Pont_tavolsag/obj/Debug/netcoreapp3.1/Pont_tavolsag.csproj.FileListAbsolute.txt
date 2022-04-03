@@ -1,0 +1,14 @@
+C:\Users\xy\source\repos\Pont_tavolsag\Pont_tavolsag\bin\Debug\netcoreapp3.1\Pont_tavolsag.exe
+C:\Users\xy\source\repos\Pont_tavolsag\Pont_tavolsag\bin\Debug\netcoreapp3.1\Pont_tavolsag.deps.json
+C:\Users\xy\source\repos\Pont_tavolsag\Pont_tavolsag\bin\Debug\netcoreapp3.1\Pont_tavolsag.runtimeconfig.json
+C:\Users\xy\source\repos\Pont_tavolsag\Pont_tavolsag\bin\Debug\netcoreapp3.1\Pont_tavolsag.runtimeconfig.dev.json
+C:\Users\xy\source\repos\Pont_tavolsag\Pont_tavolsag\bin\Debug\netcoreapp3.1\Pont_tavolsag.dll
+C:\Users\xy\source\repos\Pont_tavolsag\Pont_tavolsag\bin\Debug\netcoreapp3.1\Pont_tavolsag.pdb
+C:\Users\xy\source\repos\Pont_tavolsag\Pont_tavolsag\obj\Debug\netcoreapp3.1\Pont_tavolsag.csproj.AssemblyReference.cache
+C:\Users\xy\source\repos\Pont_tavolsag\Pont_tavolsag\obj\Debug\netcoreapp3.1\Pont_tavolsag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xy\source\repos\Pont_tavolsag\Pont_tavolsag\obj\Debug\netcoreapp3.1\Pont_tavolsag.AssemblyInfoInputs.cache
+C:\Users\xy\source\repos\Pont_tavolsag\Pont_tavolsag\obj\Debug\netcoreapp3.1\Pont_tavolsag.AssemblyInfo.cs
+C:\Users\xy\source\repos\Pont_tavolsag\Pont_tavolsag\obj\Debug\netcoreapp3.1\Pont_tavolsag.csproj.CoreCompileInputs.cache
+C:\Users\xy\source\repos\Pont_tavolsag\Pont_tavolsag\obj\Debug\netcoreapp3.1\Pont_tavolsag.dll
+C:\Users\xy\source\repos\Pont_tavolsag\Pont_tavolsag\obj\Debug\netcoreapp3.1\Pont_tavolsag.pdb
+C:\Users\xy\source\repos\Pont_tavolsag\Pont_tavolsag\obj\Debug\netcoreapp3.1\Pont_tavolsag.genruntimeconfig.cache
