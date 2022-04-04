@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listak", "Listak\Listak.csproj", "{C8C7144F-619C-4AED-AF7C-048E6CD174BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C7144F-619C-4AED-AF7C-048E6CD174BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C7144F-619C-4AED-AF7C-048E6CD174BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C7144F-619C-4AED-AF7C-048E6CD174BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C7144F-619C-4AED-AF7C-048E6CD174BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {992455D8-3160-4ED2-9E6E-400B984EA60B}
+	EndGlobalSection
+EndGlobal
