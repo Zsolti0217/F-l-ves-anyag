@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listakezeles", "listakezeles\listakezeles.csproj", "{80ECFE12-288B-40F9-B05B-6EF5E9C6EFE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80ECFE12-288B-40F9-B05B-6EF5E9C6EFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80ECFE12-288B-40F9-B05B-6EF5E9C6EFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80ECFE12-288B-40F9-B05B-6EF5E9C6EFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80ECFE12-288B-40F9-B05B-6EF5E9C6EFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {740B6517-BAF4-450E-B27E-D201702A77DE}
+	EndGlobalSection
+EndGlobal
