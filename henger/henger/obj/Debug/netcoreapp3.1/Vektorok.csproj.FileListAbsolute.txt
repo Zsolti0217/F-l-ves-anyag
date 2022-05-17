@@ -1,0 +1,10 @@
+C:\Users\2021307\source\repos\Vektorok\Vektorok\obj\Debug\netcoreapp3.1\Vektorok.csproj.AssemblyReference.cache
+C:\Users\2021307\source\repos\Vektorok\Vektorok\obj\Debug\netcoreapp3.1\Vektorok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2021307\source\repos\Vektorok\Vektorok\obj\Debug\netcoreapp3.1\Vektorok.AssemblyInfoInputs.cache
+C:\Users\2021307\source\repos\Vektorok\Vektorok\obj\Debug\netcoreapp3.1\Vektorok.AssemblyInfo.cs
+C:\Users\2021307\source\repos\Vektorok\Vektorok\obj\Debug\netcoreapp3.1\Vektorok.csproj.CoreCompileInputs.cache
+C:\Users\2021307\Source\Repos\Zsolti0217\F-l-ves-anyag\Vektorok\Vektorok\obj\Debug\netcoreapp3.1\Vektorok.csproj.AssemblyReference.cache
+C:\Users\2021307\Source\Repos\Zsolti0217\F-l-ves-anyag\Vektorok\Vektorok\obj\Debug\netcoreapp3.1\Vektorok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2021307\Source\Repos\Zsolti0217\F-l-ves-anyag\Vektorok\Vektorok\obj\Debug\netcoreapp3.1\Vektorok.AssemblyInfoInputs.cache
+C:\Users\2021307\Source\Repos\Zsolti0217\F-l-ves-anyag\Vektorok\Vektorok\obj\Debug\netcoreapp3.1\Vektorok.AssemblyInfo.cs
+C:\Users\2021307\Source\Repos\Zsolti0217\F-l-ves-anyag\Vektorok\Vektorok\obj\Debug\netcoreapp3.1\Vektorok.csproj.CoreCompileInputs.cache
