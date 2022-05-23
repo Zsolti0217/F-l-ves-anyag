@@ -1,0 +1,10 @@
+C:\Users\xy\source\repos\Oszthat\Oszthat\bin\Debug\Oszthat.exe.config
+C:\Users\xy\source\repos\Oszthat\Oszthat\bin\Debug\Oszthat.exe
+C:\Users\xy\source\repos\Oszthat\Oszthat\bin\Debug\Oszthat.pdb
+C:\Users\xy\source\repos\Oszthat\Oszthat\bin\Debug\nunit.framework.dll
+C:\Users\xy\source\repos\Oszthat\Oszthat\bin\Debug\nunit.framework.xml
+C:\Users\xy\source\repos\Oszthat\Oszthat\obj\Debug\Oszthat.csproj.AssemblyReference.cache
+C:\Users\xy\source\repos\Oszthat\Oszthat\obj\Debug\Oszthat.csproj.CoreCompileInputs.cache
+C:\Users\xy\source\repos\Oszthat\Oszthat\obj\Debug\Oszthat.csproj.CopyComplete
+C:\Users\xy\source\repos\Oszthat\Oszthat\obj\Debug\Oszthat.exe
+C:\Users\xy\source\repos\Oszthat\Oszthat\obj\Debug\Oszthat.pdb
