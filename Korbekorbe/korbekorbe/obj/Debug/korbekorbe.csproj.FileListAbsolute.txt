@@ -1,0 +1,10 @@
+C:\Users\2021307\source\repos\korbekorbe\korbekorbe\bin\Debug\korbekorbe.exe.config
+C:\Users\2021307\source\repos\korbekorbe\korbekorbe\bin\Debug\korbekorbe.exe
+C:\Users\2021307\source\repos\korbekorbe\korbekorbe\bin\Debug\korbekorbe.pdb
+C:\Users\2021307\source\repos\korbekorbe\korbekorbe\obj\Debug\korbekorbe.csproj.AssemblyReference.cache
+C:\Users\2021307\source\repos\korbekorbe\korbekorbe\obj\Debug\korbekorbe.Form1.resources
+C:\Users\2021307\source\repos\korbekorbe\korbekorbe\obj\Debug\korbekorbe.Properties.Resources.resources
+C:\Users\2021307\source\repos\korbekorbe\korbekorbe\obj\Debug\korbekorbe.csproj.GenerateResource.cache
+C:\Users\2021307\source\repos\korbekorbe\korbekorbe\obj\Debug\korbekorbe.csproj.CoreCompileInputs.cache
+C:\Users\2021307\source\repos\korbekorbe\korbekorbe\obj\Debug\korbekorbe.exe
+C:\Users\2021307\source\repos\korbekorbe\korbekorbe\obj\Debug\korbekorbe.pdb
